@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Documents\\ST10445280-PROG6221-POE\\ST10445280-PROG6221-POE\\POE Part1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BD6A82-6873-4731-90E9-D824F8DD9A14}|POE Part1.csproj|c:\\users\\lab_services_student\\documents\\st10445280-prog6221-poe\\st10445280-prog6221-poe\\poe part1\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BD6A82-6873-4731-90E9-D824F8DD9A14}|POE Part1.csproj|solutionrelative:display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BD6A82-6873-4731-90E9-D824F8DD9A14}|POE Part1.csproj|c:\\users\\lab_services_student\\documents\\st10445280-prog6221-poe\\st10445280-prog6221-poe\\poe part1\\gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BD6A82-6873-4731-90E9-D824F8DD9A14}|POE Part1.csproj|solutionrelative:gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BD6A82-6873-4731-90E9-D824F8DD9A14}|POE Part1.csproj|c:\\users\\lab_services_student\\documents\\st10445280-prog6221-poe\\st10445280-prog6221-poe\\poe part1\\backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BD6A82-6873-4731-90E9-D824F8DD9A14}|POE Part1.csproj|solutionrelative:backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BD6A82-6873-4731-90E9-D824F8DD9A14}|POE Part1.csproj|c:\\users\\lab_services_student\\documents\\st10445280-prog6221-poe\\st10445280-prog6221-poe\\poe part1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BD6A82-6873-4731-90E9-D824F8DD9A14}|POE Part1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Display.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\ST10445280-PROG6221-POE\\ST10445280-PROG6221-POE\\POE Part1\\Display.cs",
+              "RelativeDocumentMoniker": "Display.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\ST10445280-PROG6221-POE\\ST10445280-PROG6221-POE\\POE Part1\\Display.cs",
+              "RelativeToolTip": "Display.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwD8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:19:31.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BackEnd.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\ST10445280-PROG6221-POE\\ST10445280-PROG6221-POE\\POE Part1\\BackEnd.cs",
+              "RelativeDocumentMoniker": "BackEnd.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\ST10445280-PROG6221-POE\\ST10445280-PROG6221-POE\\POE Part1\\BackEnd.cs",
+              "RelativeToolTip": "BackEnd.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA9wDUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:25:31.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GUI.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\ST10445280-PROG6221-POE\\ST10445280-PROG6221-POE\\POE Part1\\GUI.cs",
+              "RelativeDocumentMoniker": "GUI.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\ST10445280-PROG6221-POE\\ST10445280-PROG6221-POE\\POE Part1\\GUI.cs",
+              "RelativeToolTip": "GUI.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T04:57:13.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\ST10445280-PROG6221-POE\\ST10445280-PROG6221-POE\\POE Part1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\ST10445280-PROG6221-POE\\ST10445280-PROG6221-POE\\POE Part1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:21:57.848Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

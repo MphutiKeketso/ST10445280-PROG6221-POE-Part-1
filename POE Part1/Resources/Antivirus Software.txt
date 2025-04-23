@@ -1,0 +1,94 @@
+What is Antivirus Software?  
+Antivirus software is a cybersecurity program designed to **detect, prevent, and remove malicious software (malware) from computers, smartphones, and other devices. It acts as a digital "immune system," scanning files, emails, and web traffic to block threats like viruses, ransomware, spyware, and trojans.  
+
+
+
+Key Functions of Antivirus Software  
+1. Real-Time Scanning  
+   - Continuously monitors system activity to block malware before execution.  
+
+2. Malware Detection & Removal  
+   - It identifies and deletes viruses, worms, trojans, spyware, and ransomware.  
+
+3. Heuristic Analysis  
+   - It detects new, unknown threats by analysing suspicious behaviour (not just known malware signatures).  
+
+4. Email & Web Protection  
+   - Scans email attachments and blocks malicious websites (anti-phishing).  
+
+5. Firewall Integration
+   - Some antivirus programs include a firewall for extra network security.  
+
+6. Automatic Updates  
+   - Regularly updates virus definitions to combat emerging threats.  
+
+
+
+How Antivirus Software Works  
+1. Signature-Based Detection  
+   - Compares files against a database of known malware signatures  
+   - (Example: Detecting the "WannaCry" ransomware by its code pattern.) 
+
+2. Behavioural Analysis  
+   - Flags programs acting suspiciously (e.g., encrypting files rapidly like ransomware).  
+
+3. Sandboxing  
+   - Run suspicious files in an **isolated virtual environment to check for malicious behaviour.  
+
+4. Machine Learning & AI  
+   - Advanced antivirus uses AI to predict and block zero-day exploits.  
+
+---
+
+Types of Antivirus Solutions  
+|   Type                  |   Description                                          |   Best For                           |  
+|-------------------------|--------------------------------------------------------|--------------------------------------|  
+|   Free Antivirus        | Basic malware protection (e.g., Avast Free, AVG)       | Home users on a budget               |  
+|   Premium Antivirus     | Advanced features (firewall, VPN, phishing protection) | Businesses & privacy-conscious users |  
+|   Cloud-Based AV        | Scans files online, reducing system load               | Lightweight devices                  |  
+|   Enterprise AV         | Centralized management for large networks              | Corporations, IT admins              |  
+
+---
+
+ Why is Antivirus Important  
+✔ Prevents Data Theft (e.g., keyloggers stealing passwords).  
+✔ Blocks Ransomware (e.g., attacks that encrypt files for ransom).  
+✔ Stops Spyware (e.g., malware tracking your browsing habits).  
+✔ Protects Against Zero-Day Exploits (new, unpatched vulnerabilities).  
+
+---
+
+ Limitations of Antivirus  
+❌ Cannot stop all threats (e.g., sophisticated APTs or social engineering).  
+❌ May slow down systems (resource-heavy scans).  
+❌ Requires updates (outdated antivirus fails against new malware).  
+
+---
+
+ Antivirus vs. Firewall  
+|   Antivirus                        |   Firewall                           |  
+|------------------------------------|--------------------------------------|  
+| Scans files & programs for malware | Blocks unauthorized network traffic  |  
+| Protects against internal threats  | Protects against external intrusions |  
+| Example: Norton, McAfee            | Example: Windows Defender Firewall   |  
+
+👉 Best Practice: Use both for layered security!  
+
+---
+
+ Top Antivirus Software (2024  
+- Bitdefender (Best overall)  
+- Norton 360 (Best for premium features)  
+- Kaspersky (Strong malware detection)  
+- Malwarebytes (Great for ransomware)  
+- Windows Defender (Built-in for Windows, decent free option)  
+
+---
+
+ How to Stay Protected  
+✅ Install reputable antivirus software and keep it updated.  
+✅ Enable real-time scanning  
+✅ Avoid pirated software (common malware source).  
+✅ Use a firewall + antivirus combo.  
+✅ Educate yourself on phishing scams (Antivirus can’t stop you from clicking malicious links!).  
+

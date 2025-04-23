@@ -1,0 +1,40 @@
+ What is Social Engineering in Cybersecurity?  
+Social engineering is a manipulation technique used by cybercriminals to trick individuals into revealing sensitive information, granting access to systems, or performing actions that compromise security. Instead of exploiting technical vulnerabilities, attackers exploit human psychology—using deception, persuasion, and influence to achieve their goals.
+
+ Common Social Engineering Techniques  
+1. Phishing  
+   - Fraudulent emails, texts, or calls pretending to be from a trusted source (e.g., banks, companies).  
+   - Example: A fake "password reset" email leading to a malicious website.  
+
+2. Spear Phishing  
+   - Targeted phishing attacks are tailored to a specific individual or organization.  
+   - Example: An attacker impersonates a CEO to trick an employee into transferring money.  
+
+3. Baiting  
+   - Offering something enticing (e.g., free software, USB drives) to infect a system with malware.  
+   - Example: A malware-infected USB labelled "Employee Salaries" left in a parking lot.  
+
+4. Pretexting  
+   - Creating a fabricated scenario (a "pretext") to gain trust and extract information.  
+   - Example: A scammer calls pretending to be IT support, asking for login credentials.  
+
+5. Quid Pro Quo  
+   - Offering a service or benefit in exchange for information.  
+   - Example: A fake tech support agent offers "free software" in return for login details.  
+
+6. Tailgating (Physical Social Engineering) 
+   - Gaining unauthorized physical access by following someone into a restricted area.  
+   - Example: An attacker poses as a delivery person to enter a secure office.  
+
+ How to Prevent Social Engineering Attacks  
+- Be sceptical of unsolicited requests for information.  
+- Verify identities before sharing sensitive data (e.g., call back using official numbers).  
+- Use multi-factor authentication (MFA) to reduce the impact of stolen credentials.  
+- Educate employees through cybersecurity awareness training.  
+- Avoid clicking on suspicious links or downloading unknown attachments.  
+
+ Why is Social Engineering Dangerous?  
+- It bypasses technical security measures by exploiting human trust.  
+- Many high-profile breaches (e.g., ransomware attacks, data leaks) start with social engineering.  
+
+By staying vigilant and informed, individuals and organizations can defend against these manipulative tactics. 🚨  

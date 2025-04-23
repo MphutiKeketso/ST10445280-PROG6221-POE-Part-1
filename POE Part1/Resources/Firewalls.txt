@@ -1,0 +1,64 @@
+ What Are Firewalls in Cybersecurity?  🔥🛡️
+A firewall is a network security system that monitors and controls incoming and outgoing traffic based on predefined security rules. It acts as a barrier between trusted internal networks (e.g., your home or company network) and untrusted external networks (e.g., the Internet) to block malicious traffic.  
+
+---
+
+ Purpose of Firewalls  
+1. Blocks Unauthorized Access  
+   - Prevents hackers, malware, and cyberattacks from entering a network.  
+
+2. Filter Traffic  
+   - Allows or denies data packets based on security rules (e.g., blocking suspicious IP addresses).  
+
+3. Prevents Data Breaches  
+   - Stops attackers from stealing sensitive information.  
+
+4. Controls Network Traffic  
+   - Restricts access to certain websites or services (e.g., blocking social media at work).  
+
+5. Logs & Monitors Activity  
+   - Keeps records of traffic for security analysis and threat detection.  
+
+---
+
+ Types of Firewalls  
+| Type                               | How It Works                                                     | Best For                              |
+|------------------------------------|------------------------------------------------------------------|---------------------------------------|
+| Packet-Filtering Firewall          | Checks data packets (source/destination IP, port) against rules. | Basic security, small networks        |
+| Stateful Inspection Firewall       | Tracks active connections and allows only trusted traffic.       | Medium to large businesses            |
+| Proxy Firewall (Application-Level) | Acts as an intermediary between users and the internet.          | Web security, deep traffic inspection |
+| Next-Generation Firewall (NGFW)    | Combines traditional firewall + IPS, malware detection, & AI.    | Advanced threat protection            |
+| Cloud Firewall                     | Hosted in the cloud to protect cloud-based systems.              | SaaS, cloud infrastructure            |
+
+---
+
+ How Firewalls Work  
+1. Incoming/Outgoing Traffic → Reaches the firewall.  
+2. Rule Check → Firewall compares traffic against security policies.  
+3. Action Taken → Allows safe traffic / Blocks malicious traffic.  
+4. Logs Activity → Records events for security analysis.  
+
+Example: 
+- A hacker tries to access a company’s server via Port 22 (SSH).  
+- The firewall blocks the request because it’s not from a trusted IP.  
+
+---
+
+ Firewall vs. Antivirus  
+| Firewall                                   | Antivirus                          |
+|--------------------------------------------|------------------------------------|
+| Blocks external threats (hackers, malware) | Detects & removes internal malware |
+| Network-level protection                   | File/system-level protection       |
+| Prevents unauthorized access               | Cleans infected files              |
+
+Best Practice: Use both for maximum security.  
+
+---
+
+ Limitations of Firewalls  
+❌ Cannot stop internal threats (e.g., a malicious employee).  
+❌ Doesn’t protect against social engineering (e.g., phishing).  
+❌ Needs regular updates to stay effective against new threats.  
+
+---
+

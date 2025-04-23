@@ -1,0 +1,71 @@
+ What is Cybersecurity?  
+Cybersecurity is the practice of protecting systems, networks, programs, devices, and data from digital attacks, unauthorized access, and damage. It encompasses technologies, processes, and policies designed to safeguard computers, servers, mobile devices, and sensitive information from cyber threats like hacking, malware, ransomware, and phishing.
+
+---
+
+ Why is Cybersecurity Important?  
+1. Prevents Data Breaches – Protects personal, financial, and business data.  
+2. Stops Cybercrime – Blocks hackers, identity thieves, and cybercriminals.  
+3. Ensures Privacy – Keeps sensitive information (emails, health records) secure.  
+4. Maintains Business Trust – Avoids reputational damage from breaches.  
+5. Compliance with Laws – Meets regulations like GDPR, HIPAA, PCI-DSS.  
+
+---
+
+ Types of Cybersecurity Threats  
+| Threat                  | Description                                         | Example                                                              |  
+|-------------------------|-----------------------------------------------------|----------------------------------------------------------------------|  
+| Malware                 |Malicious software (viruses, ransomware, spyware).   |WannaCry ransomware encrypts files for ransom.                        |  
+| Phishing                |Fake emails/sites tricking users into revealing data.|A scam email pretending to be from "Netflix" asking for login details.|  
+| DDoS Attacks            |Overload a network with fake traffic to crash it.    |Hackers flood a website with traffic, making it inaccessible.         |  
+| Man-in-the-Middle (MITM)|Hackers intercept communication between two parties. |Stealing login credentials on public Wi-Fi.                           |  
+| Insider Threats         |Employees or contractors leaking data intentionally or accidentally. |A disgruntled employee sells company secrets.         |  
+| Zero-Day Exploits       |Attacks targeting unknown software vulnerabilities.  |Hackers exploit a flaw in Windows before Microsoft releases a patch.  |  
+
+---
+
+ Key Areas of Cybersecurity  
+1. Network Security – Protects networks from intrusions (firewalls, VPNs).  
+2. Endpoint Security – Secures devices (antivirus, device encryption).  
+3. Cloud Security – Safeguards cloud-stored data (AWS, Google Cloud).  
+4. Application Security – Prevents app vulnerabilities (code reviews, penetration testing).  
+5. Data Security – Encrypts and backs up sensitive information.  
+6. Identity & Access Management (IAM) – Controls who accesses systems (MFA, biometrics).  
+7. Disaster Recovery – Plans for restoring systems after an attack.  
+
+---
+
+ Cybersecurity Best Practices  
+✅ Use strong passwords + Multi-Factor Authentication (MFA).  
+✅ Keep software & systems updated (patches fix security flaws).  
+✅ Install antivirus & firewalls.  
+✅ Avoid suspicious links & email attachments.  
+✅ Encrypt sensitive data (AES-256, SSL/TLS). 
+✅ Train employees on security awareness (phishing, social engineering).  
+✅ Regularly back up data (3-2-1 rule: 3 copies, 2 formats, 1 offsite).  
+
+---
+
+ Cybersecurity vs. Network Security  
+| Cybersecurity                                    | Network Security                               |  
+|--------------------------------------------------|------------------------------------------------|  
+| Broader field covers all digital protection.     | Focuses only on securing networks.             |  
+| Includes devices, cloud, apps, and policies.     | Mainly firewalls, VPNs, intrusion detection.   |  
+| Example: Antivirus, encryption, ethical hacking. | Example: Blocking unauthorized network access. |  
+
+---
+
+ Real-World Cybersecurity Examples  
+🔹 HTTPS (SSL/TLS Encryption) – Secures online banking and shopping.  
+🔹 Zero Trust Model – "Never trust, always verify" before granting access.  
+🔹 SIEM (Security Information & Event Management) – Monitors threats in real time.  
+
+---
+
+ The Future of Cybersecurity  
+- AI & Machine Learning – Detects threats faster.  
+- Quantum Computing Risks – Could break current encryption (post-quantum crypto in development).  
+- IoT Security Challenges – More smart devices = more vulnerabilities.  
+
+---
+

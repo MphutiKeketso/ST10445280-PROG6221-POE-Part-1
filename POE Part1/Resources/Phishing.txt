@@ -1,0 +1,67 @@
+ What is Phishing?  
+Phishing is a cyberattack where criminals impersonate trusted entities (like banks, companies, or colleagues) to trick victims into revealing sensitive information (passwords, credit card numbers) or downloading malware. It’s one of the most common and dangerous forms of social engineering.  
+
+---
+
+ How Phishing Works  
+1. The Bait – Attackers send fake emails, texts (smishing), or calls (vishing), pretending to be legitimate.  
+2. The Hook – The message creates urgency (e.g., "Your account is locked!") or offers fake rewards.  
+3. The Catch – Victims click malicious links, enter credentials on fake sites, or download infected files.  
+
+---
+
+Types of Phishing Attacks  
+| Type          | Description                                                               | Example                                                                     |
+|---------------|---------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+|Email Phishing |Fake emails mimicking banks, Amazon, or Netflix.                           | "Your PayPal account is suspended—click here to verify!"                    |
+|Spear Phishing |Targeted attacks (using victim’s name, job, or personal details).          | "Hi [Your Name], I’m your CEO—urgently transfer $10,000 to this account."   |
+|Whaling        |Targets high-profile victims (CEOs, executives).                           | Fake legal subpoena sent to a company’s CFO.                                |
+|Smishing (SMS) |Phishing via text messages.                                                | "UPS failed to deliver your package. Click here to reschedule."             |
+|Vishing (Voice)|Scam calls pretending to be tech support or banks.                         | "This is Microsoft Support—your PC has a virus. Let us remote in to fix it."|
+|Clone Phishing |Duplicates a real email but replaces links/attachments with malicious ones.| A recent "invoice" with a malware-infected PDF.                             |
+|Pharming       |Redirects users to fake websites even if they type the correct URL.        | Hackers poison DNS to send "bankofamerica.com" to a spoofed site.           |
+
+---
+
+ Red Flags of a Phishing Attempt  
+🚩 Urgent or threatening language ("Act now or your account will be closed!").  
+🚩 Generic greetings ("Dear Customer" instead of your name).  
+🚩 Mismatched URLs (Hover over links to see the real destination).  
+🚩 Poor spelling/grammar (Legitimate companies rarely make mistakes).  
+🚩 Unusual sender email (e.g., "support@amaz0n.net" instead of "@amazon.com").  
+🚩 Requests for sensitive info (Banks never ask for passwords via email).  
+
+---
+
+ How to Protect Yourself  
+✅ Verify the sender – Check email addresses and phone numbers.  
+✅ Don’t click links – Manually type websites into your browser.  
+✅ Use Multi-Factor Authentication (MFA) – Even if hackers get your password, they can’t log in.  
+✅ Install anti-phishing tools – Browser extensions like Avast Online Security or Netcraft.  
+✅ Report phishing – Forward scam emails to your IT team or [report@phishing.gov](mailto:report@phishing.gov).  
+
+---
+
+ Real-World Phishing Examples  
+- Google Docs Phishing (2017) – Fake "shared document" links stole Google accounts.  
+- Twitter Bitcoin Scam (2020) – Hackers hijacked celebrity accounts (e.g., Elon Musk) to promote a Bitcoin scam.  
+- COVID-19 Scams (2020-2022) – Fake vaccine sign-ups and relief funds.  
+
+---
+
+ Phishing vs. Spam vs. Hacking  
+| Phishing                                     | Spam                                | Hacking                                  |
+|----------------------------------------------|-------------------------------------|------------------------------------------|
+|Deceptive – Tricks users into giving up data. |Annoying – Unsolicited ads/junk mail.|Direct intrusion – Exploits system flaws. |
+|Goal: Steal info or install malware.          |Goal: Advertise or spread malware.   |Goal: Gain unauthorized access.           |
+
+---
+
+ What to Do If You’re Phished  
+1. Change passwords immediately (especially for compromised accounts).  
+2. Scan for malware (use tools like Malwarebytes).  
+3. Notify your bank if your financial info was shared.  
+4. Enable MFA on all critical accounts.  
+
+---
+

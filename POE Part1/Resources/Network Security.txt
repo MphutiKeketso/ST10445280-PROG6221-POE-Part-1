@@ -1,0 +1,95 @@
+What is Network Security?  
+Network security refers to the policies, tools, and practices designed to protect a computer network from unauthorized access, cyberattacks, data breaches, and misuse. It ensures the confidentiality, integrity, and availability (CIA triad) of data transmitted across or stored within a network.  
+
+---
+
+ Why is Network Security Important?  
+1. Prevents Cyberattacks – Blocks hackers, malware, and ransomware.  
+2. Protects Sensitive Data – Secures financial records, customer info, and intellectual property.  
+3. Ensures Business Continuity – Reduces downtime from breaches.  
+4. Compliance with Laws – Meets regulations like GDPR, HIPAA, PCI-DSS.  
+
+---
+
+ Common Network Security Threats  
+| Threat                   | Description                                           |  
+|--------------------------|-------------------------------------------------------|  
+| Malware                  | Viruses, worms, ransomware, spyware.                  |  
+| Phishing                 | Fraudulent emails tricking users into revealing data. |  
+| DDoS Attacks             | Overwhelms a network with fake traffic.               |  
+| Man-in-the-Middle (MITM) | Hackers intercept communication.                      |  
+| Insider Threats          | Employees or contractors leaking data.                |  
+| Zero-Day Exploits        | Attacks targeting unknown vulnerabilities.            |  
+
+---
+
+ Key Network Security Measures  
+
+ 1. Firewalls  
+   - Acts as a barrier between trusted and untrusted networks.  
+   - Types: **Packet-filtering, NGFW (Next-Gen Firewall), Cloud Firewall**.  
+
+ 2. Intrusion Detection & Prevention Systems (IDS/IPS)  
+   - IDS monitors for suspicious activity.  
+   - IPS actively blocks threats.  
+
+ 3. Virtual Private Network (VPN)  
+   - Encrypts internet traffic to prevent eavesdropping.  
+
+ 4. Access Control  
+   - Authentication (Passwords, MFA, Biometrics).  
+   - Role-Based Access Control (RBAC) – Limits user permissions.  
+
+ 5. Encryption  
+   - Secures data in transit (SSL/TLS) and at rest (AES-256).  
+
+ 6. Antivirus & Anti-Malware  
+   - Scans and removes malicious software.  
+
+ 7. Network Segmentation  
+   - Divides networks into smaller zones to limit breach impact.  
+
+ 8. Patch Management  
+   - Regularly updates software to fix vulnerabilities.  
+
+ 9. Email Security  
+   - Blocks phishing, spam, and malicious attachments.  
+
+ 10. Wireless Security  
+   - Secures Wi-Fi with WPA3 encryption, hides SSID, and uses MAC filtering.  
+
+---
+
+ Types of Network Security  
+| Type                    | Purpose                                       |  
+|-------------------------|-----------------------------------------------|  
+| Physical Security       | Locks, biometric scanners, CCTV for hardware. |  
+| Technical Security      | Firewalls, encryption, IDS/IPS.               |  
+| Administrative Security | Policies, employee training, compliance.      |  
+
+---
+
+ Real-World Network Security Examples  
+✅ HTTPS (SSL/TLS) – Encrypts web traffic.  
+✅ Zero Trust Model – "Never trust, always verify" approach.  
+✅ SIEM (Security Information & Event Management) – Logs and analyses security events.  
+
+---
+
+ Best Practices for Network Security  
+🔹 Use strong passwords + MFA.  
+🔹 Regularly update software & firmware.  
+🔹 Train employees on cybersecurity risks (phishing, social engineering). 
+🔹 Backup critical data (3-2-1 rule: 3 copies, 2 media types, 1 offsite).  
+🔹 Monitor network traffic for anomalies. 
+
+---
+
+ Network Security vs. Cybersecurity  
+| Network Security                | Cybersecurity                                               |  
+|---------------------------------|-------------------------------------------------------------|  
+| Focuses on protecting networks. | Broader, covers all digital security (devices, cloud, IoT). |  
+| Example: Firewalls, VPNs.       | Example: Antivirus, encryption, ethical hacking.            |  
+
+---
+

@@ -1,0 +1,83 @@
+ What is Ransomware?  
+Ransomware is a type of malicious software (malware) that encrypts files or locks devices and demands payment (a "ransom") to restore access. Victims are typically given a deadline, and if they don’t pay, their data may be deleted or leaked.  
+
+---
+
+ How Ransomware Works  
+1. Infection – Delivered via phishing emails, malicious downloads, or hacked networks.  
+2. Encryption – Scrambles files (documents, photos, databases) so they’re unusable.  
+3. Ransom Note – Displays instructions for payment (usually in cryptocurrency like Bitcoin).  
+4. Extortion – Attackers may threaten to leak data if unpaid (double extortion).  
+
+---
+
+ Types of Ransomware  
+| Type                           | Description                                                     | Example                                     |  
+|--------------------------------|-----------------------------------------------------------------|---------------------------------------------|  
+| Encrypting Ransomware          | Locks files with strong encryption (AES-256).                   | WannaCry, REvil                             |  
+| Locker Ransomware              | Blocks access to the entire device (but doesn’t encrypt files). | Police-themed ransomware                    |  
+| Doxware/Leakware               | Threatens to publish stolen data if unpaid.                     | Maze, Conti                                 |  
+| RaaS (Ransomware-as-a-Service) | Hackers rent ransomware tools to others.                        | DarkSide (used in Colonial Pipeline attack) |  
+
+---
+
+ Famous Ransomware Attacks  
+- WannaCry (2017) – Spread via Windows, hit 200,000+ systems globally (hospitals, banks).  
+- Colonial Pipeline (2021) – Forced a major US fuel pipeline to pay $4.4 million in Bitcoin.  
+- Kaseya (2021) – Targeted IT firms, affecting 1,500+ businesses through a software update.  
+
+---
+
+ How Ransomware Spreads  
+- Phishing Emails – Fake invoices or shipping notices with infected attachments.  
+- Remote Desktop Protocol (RDP) Attacks – Exploits weak passwords on remote systems.  
+- Software Vulnerabilities – Unpatched apps/systems (e.g., EternalBlue exploit).  
+- Malvertising – Infected ads on legitimate websites.  
+- USB Drives – Auto-run malware when plugged in.  
+
+---
+
+ Signs of a Ransomware Attack  
+⚠ Files renamed with strange extensions (e.g., `.locked`, `.crypt`).  
+⚠ Ransom note (usually a `.txt` or pop-up with payment demands).  
+⚠ Slow system performance as files are encrypted.  
+⚠ Unable to open documents, databases, or applications.  
+
+---
+
+ What to Do If Infected  
+1. Isolate the Device – Disconnect from Wi-Fi/networks to prevent spread.  
+2. Do NOT pay the Ransom – No guarantee files will be restored, and it funds criminals.  
+3. Report to Authorities – Contact the FBI (US) or local cybercrime units.  
+4. Restore from Backups – Use clean, offline backups to recover data.  
+5. Scan for Malware – Use tools like Kaspersky Rescue Disk to remove infection.  
+
+---
+
+ How to Prevent Ransomware  
+✅ Backup Regularly – Follow the 3-2-1 rule (3 copies, 2 media types, 1 offsite).  
+✅ Update Software – Patch OS, browsers, and plugins (ransomware exploits old networks).  
+✅ Use Antivirus & Firewalls – Tools like Bitdefender or CrowdStrike can block ransomware.  
+✅ Train Employees – Teach them to spot phishing emails.  
+✅ Disable Macros & RDP – If unused, turn off remote desktop access.  
+✅ Enable Application Whitelisting – Only allow trusted programs to run.  
+
+---
+
+ Ransomware vs. Malware vs. Phishing  
+| Ransomware                | Malware                              | Phishing                         |  
+|---------------------------|--------------------------------------|----------------------------------|  
+| Encrypts files for ransom | Umbrella term for malicious software | Tricks users into revealing data |  
+| Example: LockBit          | Example: Viruses, spyware            | Example: Fake bank emails        |  
+
+---
+
+ Should You Pay the Ransom?  
+❌ No! Law enforcement advises against it because:  
+- No guarantee you’ll get files back.  
+- Funds criminal activity, leading to more attacks.  
+- You may be targeted again (marked as a "payer").  
+
+Instead, focus on prevention and backups.  
+
+---

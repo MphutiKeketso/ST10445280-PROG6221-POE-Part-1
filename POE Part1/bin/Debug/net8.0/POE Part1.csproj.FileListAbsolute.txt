@@ -1,0 +1,14 @@
+C:\Users\USER-PC\Documents\School\PROG 2A\POE Part 1\POE Part1\bin\Debug\net8.0\POE Part1.exe
+C:\Users\USER-PC\Documents\School\PROG 2A\POE Part 1\POE Part1\bin\Debug\net8.0\POE Part1.deps.json
+C:\Users\USER-PC\Documents\School\PROG 2A\POE Part 1\POE Part1\bin\Debug\net8.0\POE Part1.runtimeconfig.json
+C:\Users\USER-PC\Documents\School\PROG 2A\POE Part 1\POE Part1\bin\Debug\net8.0\POE Part1.dll
+C:\Users\USER-PC\Documents\School\PROG 2A\POE Part 1\POE Part1\bin\Debug\net8.0\POE Part1.pdb
+C:\Users\USER-PC\Documents\School\PROG 2A\POE Part 1\POE Part1\obj\Debug\net8.0\POE Part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER-PC\Documents\School\PROG 2A\POE Part 1\POE Part1\obj\Debug\net8.0\POE Part1.AssemblyInfoInputs.cache
+C:\Users\USER-PC\Documents\School\PROG 2A\POE Part 1\POE Part1\obj\Debug\net8.0\POE Part1.AssemblyInfo.cs
+C:\Users\USER-PC\Documents\School\PROG 2A\POE Part 1\POE Part1\obj\Debug\net8.0\POE Part1.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Documents\School\PROG 2A\POE Part 1\POE Part1\obj\Debug\net8.0\POE Part1.dll
+C:\Users\USER-PC\Documents\School\PROG 2A\POE Part 1\POE Part1\obj\Debug\net8.0\refint\POE Part1.dll
+C:\Users\USER-PC\Documents\School\PROG 2A\POE Part 1\POE Part1\obj\Debug\net8.0\POE Part1.pdb
+C:\Users\USER-PC\Documents\School\PROG 2A\POE Part 1\POE Part1\obj\Debug\net8.0\POE Part1.genruntimeconfig.cache
+C:\Users\USER-PC\Documents\School\PROG 2A\POE Part 1\POE Part1\obj\Debug\net8.0\ref\POE Part1.dll
