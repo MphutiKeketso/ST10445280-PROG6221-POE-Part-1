@@ -31,7 +31,7 @@ jobs:
 
     - name: Build Project
       run: dotnet build --no-restore --configuration Release
-      working-directory: POE Part 1/POE Part1/POE Part1.sln # Update this path!
+      working-directory: POE Part1 # Update this path!
       
     - name: Run Syntax Check / Compilation Test
       run: dotnet build --no-restore --configuration Release --warnaserror
